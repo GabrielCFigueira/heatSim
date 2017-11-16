@@ -1,3 +1,3 @@
 # heatSim
-simulating the spread of heat using parallel programming
-In this project it is used the paradigm of messages exchange, suported by the library "mplib3"
+simulating the spread of heat using parallel programming.
+In this project, the paradigm of messages exchange is used, suported by the library "mplib3".
